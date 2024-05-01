@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th {
+    padding: 8px;
+    border: 1px solid #ddd;
+    color: white;
+    background-color: green;
+  }
+  .table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .pagination button,
+  .pagination span {
+    margin: 0 5px;
+    color: white;
+    background-color: green;
+  }
+  .page {
+    width: 20px;
+    height: 10 px;
+    border: solid;
+    color: white;
+    background-color: green;
+  }
+  
